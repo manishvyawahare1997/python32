@@ -1,0 +1,5 @@
+SRS--software requirment and specifications...maintain task sheet from client
+devops--countinious integration countiniuod operation --cicd
+GIT-version control system
+git remote -v :- to check which remote repo connect to local repo
+git remote add origin path >>>> to connect remote repo to local repo
